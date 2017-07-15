@@ -1,0 +1,12 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{7E458BAE-4D48-D2FB-C106-52A5DAF879A4}",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "NativizedAssets",
+			"Enabled": false
+		}
+	]
+}
